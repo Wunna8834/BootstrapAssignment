@@ -15,4 +15,9 @@
     width: 300px;
 }
 
-
+/* style image to be full width of container 
+so that when you change p width, the image 
+will change accordingly.  */
+.w-100{
+    width: 100%;
+}
